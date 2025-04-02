@@ -73,6 +73,12 @@ body{
 .container{
     width: 1000px;
 }
+
+/*** LOGIN ***/
+.password{
+    font-size: 15px;
+}
+
 /**********************DETAIL***********************/
 .d-all>div{
     border-bottom: 1px solid var(--gray-70);
